@@ -1,5 +1,5 @@
-# 17FEB?
+### 17FEB
 
-Just a general purpose repo for testing random sources.
+is the repo where i run all the tests (random sources).
 
-(17FEB is the fixed name i give them)
+Note: "17Feb" is the fixed designation i gave them.
